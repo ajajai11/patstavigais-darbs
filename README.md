@@ -12,7 +12,7 @@
 </header>
 
 <nav>
-<a href="sokolades_kuka.html">Šokolādes kūka</a>
+<a href="sokolades_kuka.html" target="_blank">Skatīt recepti</a>
 <a href="zemenju_kuka.html">Zemeņu kūka</a>
 <a href="cheesecake.html">Siera kūka</a>
 </nav>
@@ -23,7 +23,7 @@
 <div class="recipe">
 <h3>Šokolādes kūka</h3>
 <p>Bagātīga un garšīga šokolādes kūka.</p>
-<a href="sokolades_kuka.html">Skatīt recepti</a>
+<a href="sokolades_kuka.html" target="_blank">Skatīt recepti</a>
 </div>
 
 <div class="recipe">
