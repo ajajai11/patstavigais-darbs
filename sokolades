@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <title>Šokolādes kūka</title>
+</head>
+<body>
+
+    <h1>Šokolādes kūka</h1>
+
+    <h2>Sastāvdaļas:</h2>
+    <ul>
+        <li>200g šokolādes</li>
+        <li>3 olas</li>
+        <li>150g cukura</li>
+    </ul>
+
+    <h2>Pagatavošana:</h2>
+    <p>Sajauc sastāvdaļas un cep 180°C apmēram 30 minūtes.</p>
+
+</body>
+</html>
